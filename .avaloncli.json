@@ -1,0 +1,5 @@
+{
+  "artifact": "library",
+  "artifactName": "fwl-react-lazy-component",
+  "cicd": "github-actions"
+}
